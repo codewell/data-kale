@@ -13,7 +13,7 @@ from data_kale.remote_resource import (
 
 @pytest.fixture
 def repository_name():
-    return '_data-kale-test-fixture'
+    return 'data-kale-test-fixture'
 
 @pytest.fixture
 def repository(repository_name):
