@@ -1,0 +1,6 @@
+*.py[oc]
+
+.eggs
+*.egg-info/
+
+venv/
