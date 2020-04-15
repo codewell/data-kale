@@ -50,6 +50,11 @@ python -m data_kale.download namespace-puddle
 python -m data_kale.upload namespace-puddle
 ```
 
+## List
+```bash
+python -m data_kale.list_remote
+```
+
 ## Test
 
 ### Install
