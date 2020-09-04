@@ -68,3 +68,6 @@ python setup.py test
 source venv/bin/activate
 pytest
 ```
+
+## Publish
+Use [pypi-publish-template](https://github.com/codewell/pypi-publish-template)
