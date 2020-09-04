@@ -1,5 +1,9 @@
 # Data Kale
 
+[![PyPI version](https://badge.fury.io/py/data-kale.svg)](https://badge.fury.io/py/data-kale)
+
+Data kale is a simple data lake intended to abstract away an S3 compatible backend like Wasabi.
+
 ![Kale](kale.jpg)
 
 ## Configuration
